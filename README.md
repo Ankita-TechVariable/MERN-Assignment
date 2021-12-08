@@ -2,4 +2,6 @@
 
 To run the application run the command:
 
-npm run dev
+1. Take a pull from master branch
+2. npm install
+3. npm run dev
